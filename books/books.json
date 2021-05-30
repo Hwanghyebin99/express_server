@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "sn": 1,
+      "book_name": "어린 왕자",
+      "author": "생텍쥐페리"
+    },
+    {
+      "sn": 2,
+      "book_name": "홍길동전",
+      "author": "허균"
+    },
+    {
+      "sn": 3,
+      "author": "샬럿 브론테",
+      "book_name": "제인 에어"
+    }
+  ]
+}
